@@ -10,11 +10,11 @@
 
 ## Overview
 
-GlobeBuddy is a project built with SwiftUI and SceneKit that lets you explore a 3D earth to discover friends from different countries. You can interact with profiles by tapping on their location, view their details animatedly at the top of the screen, and even simulate sending a message directly. This project is designed to experiment with AR, animations, and 3D interactions in a fun and visually appealing way.
+GloBuddy is a project built with SwiftUI and SceneKit that lets you explore a 3D earth to discover friends from different countries. You can interact with profiles by tapping on their location, view their details animatedly at the top of the screen, and even simulate sending a message directly. This project is designed to experiment with AR, animations, and 3D interactions in a fun and visually appealing way.
 
 ## Features ✨
 
-- **3D Globe Exploration**: Navigate and interact with a 3D earth model to discover friends located around the world.
+- **3D Earth Exploration**: Navigate and interact with a 3D earth model to discover friends located around the world.
 - **Profile Interactions**: Tap on any profile marker to see detailed information about that friend, complete with animations.
 - **AR & SceneKit Integration**: Combined AR technologies and 3D interactions to create a smooth and engaging experience.
 
@@ -43,7 +43,7 @@ To run the project locally:
 
 ## Usage 💡
 
-- Launch the app and explore the 3D globe.
+- Launch the app and explore the 3D earth.
 - Tap on profile markers to view detailed information about friends.
 - Use the message button to simulate sending a message.
 - Enjoy a smooth AR experience as you interact with the world.
