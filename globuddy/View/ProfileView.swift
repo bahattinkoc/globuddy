@@ -8,6 +8,9 @@
 import SwiftUI
 
 struct ProfileView: View {
+
+    // MARK: - PROPERTIES
+
     var profileImage: UIImage
     var name: String
     var description: String
