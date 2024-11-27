@@ -84,7 +84,7 @@ If you like our work give us a :star: :)
 
 ## Contact 📬
 
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/uikit) or follow me on [Twitter](https://twitter.com/bahattink) for more updates.
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/uikit) or follow me on [Twitter](https://twitter.com/baaddink) for more updates.
 
 ---
 
